@@ -6,7 +6,7 @@ Provides a visual graph.
 
 ## Install
 
-`npm install` or 'yarn install'
+`npm install` or `yarn install`
 
 ## Usage
 
